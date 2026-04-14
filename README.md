@@ -16,4 +16,4 @@ This project was designed with a specific focus on **Executive Communication**�
 * **The Bonus Disparity:** While base pay gaps are narrowing, bonus compensation remains heavily skewed, with women receiving [Insert %] less in performance-based pay across top-tier firms.
 * **Structural Roadblocks:** Analysis of the quartile data indicates the gap is driven primarily by a lack of female representation in the top 25% of earning brackets, rather than unequal pay for the exact same entry-level roles.
 
-*👉 [View the Executive Presentation Deck Here](link-to-your-pdf)*
+*👉 [View the Executive Presentation Deck Here](https://github.com/manyuongsg/uk-pay-gap-study/blob/main/presentation/Manyu_Project%201_%20Data_Analysis_with_SQL_-_Gender_Pay_Gap_Presentation.pdf)*
