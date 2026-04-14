@@ -1,23 +1,19 @@
-# 🛡️ Family Service Centre (FSC) Triage Application: Domestic Violence Risk Predictor
+# 💷 UK Gender Pay Gap Analysis: Executive Insights
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### The Mission
-Social workers at Family Service Centres face immense caseloads, making it difficult to instantly identify which families are at the highest immediate risk of domestic violence. This project provides a machine-learning-driven triage application to help prioritize cases, ensuring that vulnerable families receive proactive, life-saving interventions faster.
+Despite regulatory reporting requirements, the gender pay gap remains a persistent systemic issue. This project dives into the UK Government's employer pay gap data to identify which industries are lagging, where structural inequalities are most pronounced, and how corporate policy impacts compensation equality.
 
-### The Solution
-I built an end-to-end predictive model and application designed for ministry-level stakeholders. By analyzing historical case data and demographic indicators, the application assigns a "Risk Probability Score" to new intakes.
+### The Analytical Process
+This project was designed with a specific focus on **Executive Communication**—turning thousands of corporate data points into a targeted slide deck for leadership.
+- **Statistical Analysis:** Used Python to calculate weighted averages and identify statistically significant disparities across corporate quartiles.
+- **Industry Segmentation:** Grouped and analyzed companies by sector to isolate specific industries driving the national gap.
+- **Executive Storytelling:** Translated the exploratory analysis into a high-impact presentation, focusing on actionable takeaways rather than just descriptive statistics.
 
-### Technical Methodology
-- **Data Privacy:** Handled highly sensitive case data with strict anonymization protocols. *(Note: Raw data is excluded from this repository to protect PII. Synthetic data is provided for code execution).*
-- **Modeling:** Evaluated multiple classification algorithms, ultimately selecting **Random Forest** and **kNN** for their ability to handle non-linear relationships and provide interpretable feature importance for social workers.
-- **Deployment:** Packaged the model into a user-friendly application interface for non-technical caseworkers.
+### Executive Takeaways
+* **The Industry Divide:** The [Insert Industry] sector exhibited the widest median pay gap at [Insert %], significantly skewing the national average.
+* **The Bonus Disparity:** While base pay gaps are narrowing, bonus compensation remains heavily skewed, with women receiving [Insert %] less in performance-based pay across top-tier firms.
+* **Structural Roadblocks:** Analysis of the quartile data indicates the gap is driven primarily by a lack of female representation in the top 25% of earning brackets, rather than unequal pay for the exact same entry-level roles.
 
-### Key Insights
-* **Feature Importance:** Identified that [Insert Feature, e.g., frequency of past police visits] was the strongest predictor of escalation, overriding traditional socioeconomic indicators.
-* **Model Accuracy:** Achieved an F1-score of [Insert Metric]% in predicting high-risk minority classes, minimizing false negatives (which carry a high human cost).
-
-### How to Run Locally
-1. Clone the repo: `git clone [your-link]`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Launch the app: `python app/triage_app.py`
+*👉 [View the Executive Presentation Deck Here](link-to-your-pdf)*
