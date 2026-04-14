@@ -1,6 +1,6 @@
 # 💷 UK Gender Pay Gap Analysis: Executive Insights
 
-![SQL]([https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54])
+![SQL]([https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=sql&logoColor=ffdd54])
 
 ### The Mission
 Despite regulatory reporting requirements, the gender pay gap remains a persistent systemic issue. This project dives into the UK Government's employer pay gap data to identify which industries are lagging, where structural inequalities are most pronounced, and how corporate policy impacts compensation equality.
